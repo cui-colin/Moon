@@ -1,6 +1,6 @@
 # hi
 
-# from local to remote
+# second branch
 
 # edit on remote after creating second branch
 
